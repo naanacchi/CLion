@@ -14,5 +14,5 @@ using namespace std;
 int main(){
     double a=1,b=2;
     cout << "dane wyjsciowe:" << a <<". " << b << endl;
-    cout << "Wieksza z zadanych liczb= " << inline_max(a,b) << endl;
+    cout << "Wiejsza z zadanych liczb= " << inline_max(a,b) << endl;
 }

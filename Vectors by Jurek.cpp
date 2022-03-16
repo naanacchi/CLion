@@ -8,7 +8,7 @@ int main() {
     int elementy =0;
     cin >> elementy;
     int a;
-    for (int i =0; i < elementy; i++) {
+    for (int i =0; i < elementy; i++){
         cout << "Podaj element " << i << endl;
         cin >> a;
         wektor.push_back(a);
